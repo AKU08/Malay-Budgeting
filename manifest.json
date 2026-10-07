@@ -1,0 +1,13 @@
+{
+  "name": "Dompet — Budget Tracker",
+  "short_name": "Dompet",
+  "description": "Multi-currency budget tracker synced to Google Sheets",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#EEF1F7",
+  "theme_color": "#1B1B2F",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
